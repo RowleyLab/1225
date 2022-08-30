@@ -2,6 +2,5 @@
 *.aux
 *.out
 *.gz
-tags
-*latexmk
+*.fdb_latexmk
 *.fls
